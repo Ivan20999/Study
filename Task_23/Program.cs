@@ -9,6 +9,7 @@ namespace Task_23
     internal class Program
     {
         static void Main(string[] args)
+            //cc
         {
         }
     }
