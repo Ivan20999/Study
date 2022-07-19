@@ -12,7 +12,7 @@ internal class Program
         age = Console.ReadLine();
         Console.WriteLine("Your place of work?");
         placeWork = Console.ReadLine();
-        Console.WriteLine("Вас зовут " + name + ", ваш пол " + gender + ", ваш возраст " + age + ", ваше место работы: " + placeWork + ".");
+        Console.WriteLine("Your name " + name + ", your gender " + gender + ", your age " + age + ", your place of work: " + placeWork + ".");
     }
 }
 
