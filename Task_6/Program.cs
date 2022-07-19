@@ -1,15 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Task_6
+internal class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-        }
+        int images = 52;
+        int imagesInRow = 3;
+        int rowsWithImages = images / imagesInRow;
+        int imagesRemained = images % imagesInRow;
+        Console.WriteLine("Полностью заполненных рядов с картинками: " + rowsWithImages + ", картинки в остатке: " + imagesRemained + ".");
     }
 }
+
