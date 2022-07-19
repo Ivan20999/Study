@@ -1,8 +1,8 @@
 ﻿using System;
-    internal class Program
+internal class Program
+{
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
         string name, gender, age, placeWork;
         Console.WriteLine("Your name?");
         name = Console.ReadLine();
@@ -14,5 +14,5 @@
         placeWork = Console.ReadLine();
         Console.WriteLine("Вас зовут " + name + ", ваш пол " + gender + ", ваш возраст " + age + ", ваше место работы: " + placeWork + ".");
     }
-    }
+}
 
