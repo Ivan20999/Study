@@ -7,11 +7,11 @@ namespace Task_8
         static void Main(string[] args)
         {
             int receptionTime = 10;
-            int hour = 60;
+            int minutesPerHour = 60;
             Console.WriteLine("Пожалуйста, введите число людей в очереди!");
             int queue = (Convert.ToInt16(Console.ReadLine())) * receptionTime;
-            int waitingTimeHour = queue / hour;
-            int waitingTimeMinute = queue % hour;
+            int waitingTimeHour = queue / minutesPerHour;
+            int waitingTimeMinute = queue % minutesPerHour;
             Console.WriteLine("Вы должны отстоять в очереди: " + waitingTimeHour + " час(а,ов) " + waitingTimeMinute + " минут, приятного времяпровождения!");
         }
     }
