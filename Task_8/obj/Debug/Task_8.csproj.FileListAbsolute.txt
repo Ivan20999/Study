@@ -1,0 +1,8 @@
+C:\Users\Professional\source\repos\Study\Task_8\bin\Debug\Task_8.exe.config
+C:\Users\Professional\source\repos\Study\Task_8\bin\Debug\Task_8.exe
+C:\Users\Professional\source\repos\Study\Task_8\bin\Debug\Task_8.pdb
+C:\Users\Professional\source\repos\Study\Task_8\obj\Debug\Task_8.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Study\Task_8\obj\Debug\Task_8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Professional\source\repos\Study\Task_8\obj\Debug\Task_8.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Study\Task_8\obj\Debug\Task_8.exe
+C:\Users\Professional\source\repos\Study\Task_8\obj\Debug\Task_8.pdb
