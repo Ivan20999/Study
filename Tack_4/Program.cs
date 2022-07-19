@@ -3,7 +3,11 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        string name, gender, age, placeWork;
+        string name;
+        string gender;
+        string age;
+        string placeWork;
+
         Console.WriteLine("Your name?");
         name = Console.ReadLine();
         Console.WriteLine("Your gender?");
