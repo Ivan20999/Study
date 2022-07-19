@@ -1,0 +1,8 @@
+C:\Users\Professional\source\repos\Study\Tack_4\bin\Debug\Tack_4.exe.config
+C:\Users\Professional\source\repos\Study\Tack_4\bin\Debug\Tack_4.exe
+C:\Users\Professional\source\repos\Study\Tack_4\bin\Debug\Tack_4.pdb
+C:\Users\Professional\source\repos\Study\Tack_4\obj\Debug\Tack_4.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Study\Tack_4\obj\Debug\Tack_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Professional\source\repos\Study\Tack_4\obj\Debug\Tack_4.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Study\Tack_4\obj\Debug\Tack_4.exe
+C:\Users\Professional\source\repos\Study\Tack_4\obj\Debug\Tack_4.pdb
